@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-Purpose: The purpose of this assignment was to develop a VBA script capable of looking through multiple Excel worksheets and creating stock estimates (i.e., yearly change, percent change, and total stock volume) for multiple stock indicators
+Purpose: The purpose of this assignment was to develop a VBA script capable of looping through multiple Excel worksheets and creating stock estimates (i.e., yearly change, percent change, and total stock volume) for multiple stock indicators across a three-year period (2014 - 2016).
 
 Objectives:  The primary objective was to demonstrate intermediate VBA Coding skills by applying the following techniques
   1.  Nested For loops
