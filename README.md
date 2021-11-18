@@ -1,4 +1,4 @@
-# VBA-Challenge
+# VBA- Wall Street Stock Challenge
 
 Purpose: The purpose of this assignment was to develop a VBA script capable of looping through multiple Excel worksheets and creating stock estimates (i.e., yearly change, percent change, and total stock volume) for multiple stock indicators across a three-year period (2014 - 2016).
 
